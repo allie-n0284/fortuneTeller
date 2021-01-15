@@ -9,7 +9,7 @@ My name is Allie Newton. I'm a budding full-stack engineer via codecademy pro fu
 This is my first portfolio project so feedback is greatly appreciated! 😀
 
 ## Instructions
-To see your fortune, please log the *tellMyFortune* variable to your console.
+To see your fortune, please download the fortune-Teller.js file then log the *tellMyFortune* variable to your console.
 
 ### Contact
 Created by [@allie-n0284] 
